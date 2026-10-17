@@ -1,0 +1,90 @@
+{
+  "cards": {
+    "kupitero": "cards/kupitero.svg",
+    "lola": "cards/lola.svg",
+    "kabarangay": "cards/kabarangay.svg",
+    "event-ulan": "cards/event-ulan.svg",
+    "event-banda": "cards/event-banda.svg",
+    "event-handaan": "cards/event-handaan.svg",
+    "event-baboy-ramo": "cards/event-baboy-ramo.svg",
+    "event-tahimik": "cards/event-tahimik.svg",
+    "dagdag": "cards/dagdag.svg",
+    "card-back": "cards/card-back.svg"
+  },
+  "items": {
+    "coin": "items/coin.svg",
+    "coin-stack": "items/coin-stack.svg",
+    "cup-closed": "items/cup-closed.svg",
+    "cup-open-2": "items/cup-open-2.svg",
+    "cup-open-1": "items/cup-open-1.svg",
+    "cup-open-0": "items/cup-open-0.svg",
+    "lechon": "items/lechon.svg",
+    "sira": "items/sira.svg",
+    "medalya": "items/medalya.svg"
+  },
+  "icons": {
+    "eye": "icons/eye.svg",
+    "hold": "icons/hold.svg",
+    "pass": "icons/pass.svg",
+    "sound-on": "icons/sound-on.svg",
+    "sound-off": "icons/sound-off.svg",
+    "timer": "icons/timer.svg",
+    "trophy": "icons/trophy.svg",
+    "rules": "icons/rules.svg",
+    "badge-tanod": "icons/badge-tanod.svg",
+    "badge-nabunyag": "icons/badge-nabunyag.svg",
+    "badge-medalya": "icons/badge-medalya.svg",
+    "badge-thief": "icons/badge-thief.svg"
+  },
+  "scenes": {
+    "banderitas": "decor/banderitas.svg",
+    "banderitas-tile": "decor/banderitas-tile.svg",
+    "parol": "decor/parol.svg",
+    "bg-pattern": "decor/bg-pattern.svg",
+    "bg-night": "decor/bg-night.svg",
+    "logo": "scenes/logo.svg",
+    "hero-baryo": "scenes/hero-baryo.svg"
+  },
+  "avatars": [
+    {
+      "id": "mang-ben",
+      "name": "Mang Ben",
+      "file": "avatars/mang-ben.svg"
+    },
+    {
+      "id": "ate-joy",
+      "name": "Ate Joy",
+      "file": "avatars/ate-joy.svg"
+    },
+    {
+      "id": "kuya-jun",
+      "name": "Kuya Jun",
+      "file": "avatars/kuya-jun.svg"
+    },
+    {
+      "id": "aling-nena",
+      "name": "Aling Nena",
+      "file": "avatars/aling-nena.svg"
+    },
+    {
+      "id": "bunso",
+      "name": "Bunso",
+      "file": "avatars/bunso.svg"
+    },
+    {
+      "id": "dodong",
+      "name": "Dodong",
+      "file": "avatars/dodong.svg"
+    },
+    {
+      "id": "ineng",
+      "name": "Ineng",
+      "file": "avatars/ineng.svg"
+    },
+    {
+      "id": "mang-tonyo",
+      "name": "Mang Tonyo",
+      "file": "avatars/mang-tonyo.svg"
+    }
+  ]
+}
